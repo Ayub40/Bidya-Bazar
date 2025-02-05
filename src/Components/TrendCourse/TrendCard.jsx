@@ -44,9 +44,6 @@ const TrendCard = ({ course }) => {
                             {course.price === "Free" ? "Free" : `$${course.price}`}
                         </span>
                     </div>
-
-
-
                     {/* <div className="mt-4">
                         <span className="font-bold text-3xl text-[#0CBC87] hover:bg-[#0CBC87]">{course.price === "Free" ? "Free" : `$${course.price}`}</span>
                     </div> */}
