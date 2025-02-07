@@ -37,7 +37,7 @@ const TrendCard = ({ course }) => {
 
                     <div className="mt-4">
                         <span className="hidden group-hover:block">
-                            <button className="px-3 py-2 text-[#0CBC87] hover:text-white font-bold text-xs rounded bg-[#E6F8F3] hover:bg-[#0CBC87] duration-500 flex items-center gap-2">
+                            <button className="btn px-3 py-2 text-[#0CBC87] hover:text-white font-bold text-xs rounded bg-[#E6F8F3] hover:bg-[#0CBC87] duration-500 flex items-center gap-2">
                                 <IoCart className="text-lg" /> Add to Cart
                             </button>
                         </span>
