@@ -4,7 +4,8 @@ import {
 import Root from "../Layout/Root";
 import Home from "../Pages/Home/Home"
 import AllClasses from "../Pages/AllClasses/AllClasses";
-import BecomeInstructors from "../Pages/BecomeInstructors/BecomeInstructors";
+import TeachBidyaBazar from "../Pages/TeachBidyaBazar/TeachBidyaBazar";
+// import BecomeInstructors from "../Pages/BecomeInstructors/BecomeInstructors";
 
 export const router = createBrowserRouter([
     {
@@ -22,7 +23,8 @@ export const router = createBrowserRouter([
             {
                 path: 'TeacherApply',
                 // element: <TeacherApply></TeacherApply>
-                element: <BecomeInstructors></BecomeInstructors>
+                // element: <BecomeInstructors></BecomeInstructors>
+                element: <TeachBidyaBazar></TeachBidyaBazar>
             }
         ]
     }
