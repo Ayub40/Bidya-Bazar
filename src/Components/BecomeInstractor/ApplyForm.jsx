@@ -12,9 +12,6 @@ const ApplyForm = () => {
       <div className="mb-24 grid md:grid-cols-2  max-w-7xl mx-auto">
 
         <div className="m-3 mt-10">
-
-          {/* <h3 className="text-3xl font-bold ">Apply As Instructor</h3>
-          <p className="border-b-[1px] mt-3"></p> */}
           <div className="mt-5 space-y-5">
             <h3 className="text-2xl font-semibold">Become an Instructor</h3>
             <p className="text-lg">Join the world’s largest online learning marketplace now</p>
