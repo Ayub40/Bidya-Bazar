@@ -18,11 +18,6 @@ const InstructorsBanner = () => {
                         Start Teaching Today
                     </button>
                 </div>
-                {/* <div className="">
-                       <Lottie animationData={onlineEducation} />
-                    </div> */}
-                {/* <ShuffleGrid /> */}
-
                 <div className="">
                     <img src="https://edumall.vuejstemplate.com/images/others/become-a-teacher-hero-image.png" alt="Become an Instructor" className="w-full h-auto md:h-[347px] md:w-[727px] object-contain md:absolute bottom-0 right-44" />
 
